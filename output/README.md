@@ -1,7 +1,7 @@
-# README GENERATOR
+# README FILE GENERATOR
  
 ## Description
-generates a readme.md file 
+It creates a readme file 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -26,10 +26,10 @@ npm test
 ```
 
 ## Usage
-n/a 
+N/A 
 
 ## Contributing
-n/a 
+N/A 
 
 ## License
 
