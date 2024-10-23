@@ -1,13 +1,13 @@
 # README GENERATOR
  
 ## Description
-This command-line application generates a structured README.md file from user input using Inquirer. 
+generates a readme.md file 
 
 ## Table of Contents
 - [Installation](#installation)
+- [Tests](#tests)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
 

@@ -44,6 +44,10 @@ node index.js
 ![bash](./image/gbssc.png)
 ![readme](./image/rmfss.png)
 
+ ## Video
+
+[![video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/13s6L8lMR1stMRgsWHMAFZmnNZW9UuXTV/view)
+
 ## Repo
 
 [GitHub Repo](https://github.com/briansotolago/README-Generator)
