@@ -30,17 +30,15 @@ This project is licensed under the ${license} license.`;  // Insert the chosen l
 // It uses the data provided from the user prompts
 function generateMarkdown(data) {
   return `# ${data.title}
-
-${renderLicenseBadge(data.license)} 
-
+ 
 ## Description
 ${data.description} 
 
 ## Table of Contents
 - [Installation](#installation)
+- [Tests](#tests)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
 
@@ -51,12 +49,6 @@ To install necessary dependencies, run the following command:
 ${data.installation}  
 \`\`\`
 
-## Usage
-${data.usage} 
-
-## Contributing
-${data.contributing} 
-
 ## Tests
 To run tests, run the following command:
 
@@ -64,7 +56,13 @@ To run tests, run the following command:
 ${data.test} 
 \`\`\`
 
-${renderLicenseSection(data.license)} 
+## Usage
+${data.usage} 
+
+## Contributing
+${data.contributing} 
+
+${renderLicenseSection(data.license)} ${renderLicenseBadge(data.license)}
 
 ## Questions
 If you have any questions, you can contact me at:

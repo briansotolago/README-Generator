@@ -1,9 +1,7 @@
-# README.mk generator
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-
+# README GENERATOR
+ 
 ## Description
-This command-line application generates a structured README.md file from user input using Inquirer.  
+This command-line application generates a structured README.md file from user input using Inquirer. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,14 +15,8 @@ This command-line application generates a structured README.md file from user in
 To install necessary dependencies, run the following command:
 
 ```
-npm i  // Insert the installation command
+npm i  
 ```
-
-## Usage
-n/a  
-
-## Contributing
-n/a  
 
 ## Tests
 To run tests, run the following command:
@@ -33,12 +25,18 @@ To run tests, run the following command:
 npm test 
 ```
 
+## Usage
+n/a 
+
+## Contributing
+n/a 
+
 ## License
 
-This project is licensed under the MIT license.  
+This project is licensed under the MIT license. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 If you have any questions, you can contact me at:
 
 - GitHub: [briansotolago](https://github.com/briansotolago) 
-- Email: briansoto.bs23@gmail.com  
+- Email: briansoto.bs23@gmail.com 
